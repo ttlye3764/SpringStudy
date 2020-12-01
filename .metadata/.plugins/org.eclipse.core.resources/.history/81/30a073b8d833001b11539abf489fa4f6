@@ -1,0 +1,5 @@
+package kr.or.config;
+
+public class WebConfig {
+
+}

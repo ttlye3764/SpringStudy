@@ -1,0 +1,6 @@
+package kr.or.config;
+
+@Configration
+public class RootConfig {
+
+}
