@@ -1,3 +1,0 @@
-INDEX VERSION 1.4+/Users/jaeho/Spring/study/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-3136042855.index
-994001194.index
